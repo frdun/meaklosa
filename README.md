@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @meaklosa
-- 👀 I’m interested in OSINT
-- 🌱 I’m currently learning OSINT TOOLS
-- 💞️ I’m looking to collaborate on helpfully friends🦍😩
-- 📫 How to reach me I'll reach you don't worry 🐔
+- 👋 Hi, I’m 
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collabrate on 
+- 📫 How to reach me
 
 <!---
 meaklosa/meaklosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
